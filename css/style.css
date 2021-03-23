@@ -1,15 +1,25 @@
   body {
-    background-color: #ffe5b9;
+    background-color: #fcf8ec;
   }
 
   hr {
-    background-color: grey;
     border-style: dotted none none none;
     border-width: 5px;
-    height: 0px;
     width: 05%;
+  }
+  div {
+    margin-bottom: 10px;
   }
 
   img {
     height: 70%;
+  }
+  h1 {
+    color: #222831;
+  }
+  h3 {
+    color: #87431d;
+  }
+  h4 {
+    color: #87431d;
   }
